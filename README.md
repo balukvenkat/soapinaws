@@ -21,6 +21,7 @@ It holds lambda handle to process XML request and send the response as XML forma
 
 ![image](https://user-images.githubusercontent.com/38793410/126020691-8d8e991f-3939-45d9-9496-9cf7be45e2cd.png)
 
+![image](https://user-images.githubusercontent.com/38793410/126020717-8f99e74d-4a6d-49b2-b0fd-17e63dabb61b.png)
 
 
 ![image](https://user-images.githubusercontent.com/38793410/126020656-8e85072b-a7bd-4044-b1be-55811c29ce98.png)
