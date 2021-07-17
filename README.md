@@ -31,6 +31,10 @@ Integration Request Settings:
 Integration Response Settings:
 ![image](https://user-images.githubusercontent.com/38793410/126020808-37cb6fd9-eb44-4cf4-ac8a-3ad680d3c5ce.png)
 
+Method Response Settings:
+![image](https://user-images.githubusercontent.com/38793410/126020853-12e82fe9-6a2a-414a-8e1c-ec42f0b739d0.png)
+
+
 PostMan request and response
 ![image](https://user-images.githubusercontent.com/38793410/126020656-8e85072b-a7bd-4044-b1be-55811c29ce98.png)
 
