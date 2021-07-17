@@ -1,4 +1,5 @@
 # soapinaws
+This is AWS Lambda and API Gateway integration for service SOAP
 This is project is producing a SOAP web service using a springboot implementation.
 It holds lambda handle to process XML request and send the response as XML format.
 
@@ -38,3 +39,6 @@ Method Response Settings:
 PostMan request and response
 ![image](https://user-images.githubusercontent.com/38793410/126020656-8e85072b-a7bd-4044-b1be-55811c29ce98.png)
 
+Note:
+for more ref: Lambda and API Gateway for service SOAP response.
+https://blog.codecentric.de/en/2016/12/serverless-soap-legacy-api-integration-java-aws-lambda-aws-api-gateway/
