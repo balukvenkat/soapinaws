@@ -1,5 +1,5 @@
 # soapinaws
-This is Producing a SOAP web service using a springboot implementation.
+This is project is producing a SOAP web service using a springboot implementation.
 It holds lambda handle to process XML request and send the response as XML format.
 
 **Steps:**
