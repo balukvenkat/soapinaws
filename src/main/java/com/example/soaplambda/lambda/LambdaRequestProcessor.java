@@ -86,6 +86,7 @@ public class LambdaRequestProcessor {
 				 * marshallObj.marshal(response, doc); String xml = new
 				 * XMLOutputFactory().outputString(doc); InputStream inputStream = new
 				 * StringBufferInputStream(xml); doc.get
+				 * ***
 				 */
         	
         	
